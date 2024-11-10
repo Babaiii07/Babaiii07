@@ -1,16 +1,6 @@
-
----
-
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-<h1 align="center">Hey there, I'm Parthib Karak 👋</h1>
-
-<p align="center">
-  <img src="https://scontent.fccu31-1.fna.fbcdn.net/v/t39.30808-6/441321914_1635664603853949_7080587086559650928_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=F41o8J2RpDgQ7kNvgFaqyev&_nc_zt=23&_nc_ht=scontent.fccu31-1.fna&_nc_gid=AT7wZmw5Em4Vl-Oq1xHgb_B&oh=00_AYAliRFC6ngbomntXk5WycBnBmCnimkRGfJnfOAUsVQj6Q&oe=6733CFBA" width="150" height="150" style="border-radius: 50%; overflow: hidden;" alt="Profile Picture">
-</p>
-
-<h3 align="center">A Passionate Python Developer & AI Enthusiast</h3>
-
+<h2 align="center">Hey there, I'm Parthib Karak 👋</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Machine+Learning+Engineer;Android+Developer" alt="Typing SVG">
 </p>
@@ -35,6 +25,7 @@
 
 ### 🔭 Currently Working On
 **🌟 Melody Voice Assistant** - Your friendly, AI-powered voice assistant, always ready to help!
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
 ### 🌱 Growing My Skills In
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow, Keras
@@ -48,8 +39,6 @@ Got questions on **React** or **Machine Learning**? I'm here to help!
 
 ### 📫 Let's Connect
 Reach out at: parthibkarak2004@gmail.com
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
