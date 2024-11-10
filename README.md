@@ -25,14 +25,14 @@
 
 ### 🔭 Currently Working On
 **🌟 Melody Voice Assistant** - Your friendly, AI-powered voice assistant, always ready to help!
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
 ### 🌱 Growing My Skills In
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow, Keras
 - Constantly exploring cutting-edge technologies to expand my toolkit.
 
 ### 💼 My Work & Projects
-Explore all my work here: [**Portfolio 🌐**](#)
+Explore all my work here: https://portfolio-parthib-flask.vercel.app/
 
 ### 💬 Expertise
 Got questions on **React** or **Machine Learning**? I'm here to help!
