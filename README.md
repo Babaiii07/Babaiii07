@@ -2,7 +2,7 @@
 
 <h2 align="center">Hey there, I'm Parthib Karak 👋</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Machine+Learning+Engineer;Android+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Machine+Learning+Engineer;AI+Developer" alt="Typing SVG">
 </p>
 
 <p align="left"> 
